@@ -1,2 +1,2 @@
 # JupyterNB
-Jupyter notebooks
+Jupyter notebooks of my data science projects
