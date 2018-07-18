@@ -1,2 +1,2 @@
-# Machine Learning Portfolios 
+# Machine Learning Portfolio
 Jupyter notebooks of my data science projects
